@@ -17,7 +17,7 @@ Note: You can generate your own Caltech dataset with the below steps, or you can
 
 Instruction to Generate Caltech Dataset 
 Organize the dataset into video sequences with corresponding image and annotation folders. The dataset folder structure should look like this:
-![alt text](https://drive.google.com/file/d/1lVRbAKqRe4KRcLqvQi2FPRdfGfBykAqb/view?usp=sharing)
+https://drive.google.com/file/d/1lVRbAKqRe4KRcLqvQi2FPRdfGfBykAqb/view?usp=sharing
 
 In the CV Caltech 2.ipynb file, update the source and destination directory path in the “source_dir” and “destination_dir” variables.
 In the third cell updated the path in the following variables “training_Path_To_Rotate”, ”testing_Path_To_Rotate”, ”rotated_training_path”, ”rotated_testing_path”,  ”rotated_train_json_angle_path” and “rotated_test_json_angle_path.”
